@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sd;.'ds,lsdl,dsfmlkdfkvldvkmlkdvlkj
+=======
+tomek m dsfmlkdfkvldvkmlkdvlkj
+>>>>>>> remotes/origin/master
